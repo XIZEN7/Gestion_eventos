@@ -1,1 +1,1 @@
-Gestión de eventos Técnicos y academicos Demo
+Gestión de eventos Técnicos y Academicos
