@@ -230,7 +230,6 @@
                 filter: $(this).data("filter"),
             });
         });
-
         // Initiate venobox (lightbox feature used in portofilo)
         $(document).ready(function() {
             $(".venobox").venobox();
